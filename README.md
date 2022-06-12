@@ -1,4 +1,9 @@
-### Hi there 👋
+<h1 align="center"> Olá, meu nome é Thais. 
+  Bem Vindo ao meu GitHub! 👋</h1>
+
+
+
+
 
 <!--
 **cintrathais/cintrathais** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
