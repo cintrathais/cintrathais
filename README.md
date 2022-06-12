@@ -4,8 +4,12 @@
 
  ⚡  Sou aprendiz de desenvolvimento front-end e back-end mas atualmente com ênfase no front-end. Pretendo ser full-stack e aqui quero compartilhar com vocês meu aprendizado, projetos, e muito mais! 
  
+
  
  
+ ### Acesse também meu Linkedin!
+ 
+ [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/thais-cintra-6875a1221/)
 
 
 <!--
