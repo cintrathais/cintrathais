@@ -4,8 +4,8 @@
 
  ⚡  Sou aprendiz de desenvolvimento front-end e back-end mas atualmente com ênfase no front-end. Pretendo ser full-stack e aqui quero compartilhar com vocês meu aprendizado, projetos, e muito mais! 
  
-### Tecnologias que estou aperfeiçoando 
 
+### Tecnologias que estou aperfeiçoando 
 
 <div>
 <img src="./images/react.png" width="25" style="margin-right: 15px" title="React"/>
@@ -17,6 +17,8 @@
 
 <div/>
   
+<br/>
+<br/>
   
 ### Tecnologias que estarei aprendendo em breve
   
@@ -25,8 +27,8 @@
 <img src="./images/typescript.png" width="25" style="margin-right: 15px" title="TypeScript"/>
 <div/>
   
-  
-    
+ <br/>
+ <br/>
   
  ### Acesse também meu Linkedin!
  
