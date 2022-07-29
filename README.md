@@ -34,5 +34,20 @@
  
  [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/thais-cintra-6875a1221/)
 
-😄😄😄😄
+
+
+
+
+<br/>
+ <br/>
+ <br/>
+ <br/>
+ <br/>
+ <br/>
+ 
+<div>
+  <a href="https://github.com/cintrathais">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cintrathais&layout=compact&langs_count=6&theme=panda"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cintrathais&show_icons=true&theme=panda&include_all_commits=true&count_private=true"/>
+</div>
 
