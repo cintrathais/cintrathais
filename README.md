@@ -10,13 +10,12 @@
 <img src="./images/github.png" width="25" style="margin-right: 15px" title="Github"/>
 <img src="./images/css.png" width="25" style="margin-right: 15px" title="CSS3"/>
 <img src="./images/html.png" width="25" style="margin-right: 15px" title="HTML5"/>
+<img src="./images/js.png" width="25" style="margin-right: 15px" title="JavaScript"/>
 <div/>
 
 ### Tecnologias que estou aperfeiçoando 
 <div>
 <img src="./images/react.png" width="25" style="margin-right: 15px" title="React"/>
-<img src="./images/js.png" width="25" style="margin-right: 15px" title="JavaScript"/>
-
 
 <div/>
 
@@ -36,8 +35,6 @@
  ### Acesse também meu Linkedin!
  
  [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/thais-cintra-6875a1221/)
-
-
 
 
 
