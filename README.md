@@ -7,17 +7,13 @@
 ### Tecnologias que estou apta a trabalhar
 <div>
 <img src="./images/git.png" width="25" style="margin-right: 15px" title="Git"/> 
-<img src="./images/github.png" width="25" style="margin-right: 15px" title="Github"/>
 <img src="./images/css.png" width="25" style="margin-right: 15px" title="CSS3"/>
 <img src="./images/html.png" width="25" style="margin-right: 15px" title="HTML5"/>
 <img src="./images/js.png" width="25" style="margin-right: 15px" title="JavaScript"/>
-<div/>
-
-### Tecnologias que estou aperfeiçoando 
-<div>
 <img src="./images/react.png" width="25" style="margin-right: 15px" title="React"/>
-
 <div/>
+
+
 
 <br/>
 <br/>
