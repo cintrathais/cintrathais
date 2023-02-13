@@ -13,8 +13,6 @@
 <img src="./images/react.png" width="25" style="margin-right: 15px" title="React"/>
 <div/>
 
-
-
 <br/>
 <br/>
   
@@ -28,16 +26,12 @@
  <br/>
  <br/>
   
- ### Acesse também meu Linkedin!
+ ### Acesse meu Linkedin!
  
  [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/thais-cintra-6875a1221/)
 
 
 
- <br/>
- <br/>
- <br/>
- <br/>
  <br/>
  <br/>
  
