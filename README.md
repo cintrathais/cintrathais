@@ -2,12 +2,11 @@
   Bem Vindo ao meu GitHub! 👋</h1>
 
 
- ⚡  Sou aprendiz de desenvolvimento front-end e back-end mas atualmente com ênfase no front-end. Pretendo ser full-stack e aqui quero compartilhar com vocês meu aprendizado, projetos, e muito mais! 
+ ⚡  Sou profissional e estudante de desenvolvimento front-end e back-end mas atualmente com ênfase no front-end. Aqui quero compartilhar meu aprendizado, projetos, e muito mais! 
  
 
 
 
-  
 
   
 <div>
