@@ -4,23 +4,15 @@
 
  ⚡  Sou aprendiz de desenvolvimento front-end e back-end mas atualmente com ênfase no front-end. Pretendo ser full-stack e aqui quero compartilhar com vocês meu aprendizado, projetos, e muito mais! 
  
-### Tecnologias que estou apta a trabalhar
-<div>
-<img src="./images/git.png" width="25" style="margin-right: 15px" title="Git"/> 
-<img src="./images/css.png" width="25" style="margin-right: 15px" title="CSS3"/>
-<img src="./images/html.png" width="25" style="margin-right: 15px" title="HTML5"/>
-<img src="./images/js.png" width="25" style="margin-right: 15px" title="JavaScript"/>
-<img src="./images/react.png" width="25" style="margin-right: 15px" title="React"/>
-<div/>
 
-<br/>
-<br/>
+
+
   
-### Tecnologias que estarei aprendendo em breve
+
   
 <div>
-<img src="./images/node.png" width="100" style="margin-right: 15px" title="Node JS"/>
-<img src="./images/typescript.png" width="25" style="margin-right: 15px" title="TypeScript"/>
+<img src="./images/react1.png" width="100" style="margin-right: 15px" title="React"/>
+
 <div/>
   
  <br/>
