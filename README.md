@@ -1,14 +1,11 @@
-<h1 align="center"> Olá, meu nome é Thais. 
-  Bem Vindo ao meu GitHub! 👋</h1>
+<h1 align="center"> Hi, my name is Thais. 
+ Welcome to my GitHub! 👋</h1>
 
 
- ⚡  Sou profissional e estudante de desenvolvimento front-end e back-end mas atualmente com ênfase no front-end. Aqui quero compartilhar meu aprendizado, projetos, e muito mais! 
+ ⚡  I am a professional and student front-end developer and back-end but at the moment with emphasis on front-end. 
+ Here i want to share my learning, projects, and much more! Follow me or contact on orthers networks below ⚡
  
 
-
-
-
-  
 <div>
 <img src="./images/react1.png" width="100" style="margin-right: 15px" title="React"/>
 
