@@ -14,7 +14,7 @@
  <br/>
  <br/>
   
- ### Acesse meu Linkedin!
+ ### Linkedin link!
  
  [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/thais-cintra-6875a1221/)
 
