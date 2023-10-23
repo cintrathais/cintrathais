@@ -23,6 +23,3 @@
  <br/>
  <br/>
  
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cintrathais&layout=compact&langs_count=6&theme=midnight-purple"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=cintrathais&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
