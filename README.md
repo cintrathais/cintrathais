@@ -4,14 +4,6 @@
 
  ⚡  I am a professional and student front-end developer and back-end but at the moment with emphasis on front-end. 
  Here i want to share my learning, projects, and much more! Follow me or contact on orthers networks below ⚡
- 
-
-<div>
-<img src="./images/react1.png" width="100" style="margin-right: 15px" title="React"/>
-
-<div/>
-  
- <br/>
  <br/>
   
  ### Linkedin link!
